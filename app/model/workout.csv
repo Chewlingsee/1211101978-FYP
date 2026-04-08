@@ -1,0 +1,48 @@
+id,workout_name,mets,intensity,activity_type,description_benefit
+1,Walking (leisurely),2.3,Light,Aerobic/Cardiovascular,"Improves circulation, joint-friendly."
+2,Standing Heel Raises,1.5,Light,Strength/Resistance,"Strengthens calves, improves balance."
+3,Seated Leg Lifts,2,Light,Strength/Resistance,Gentle quad/hip flexor activation.
+4,Wall Push-Ups,2.5,Light,Strength/Resistance,Easier push-up variation for beginners.
+5,Stretching/Yoga (Hatha),2.3,Light,Flexibility,"Increases flexibility, reduces stress."
+6,Slow Dancing,2.5,Light,Aerobic/Cardiovascular,Fun cardio for mood & coordination.
+7,Household Chores,2.5,Light,Strength/Resistance,"Cleaning, organizing (active lifestyle)."
+8,Foam Rolling,1.5,Light,Flexibility,Muscle recovery & mobility.
+9,Chair Squats,2,Light,Strength/Resistance,Strengthens legs (safe for knees).
+10,Water Aerobics,2.5,Light,Aerobic/Cardiovascular,Joint-friendly full-body movement.
+11,Bird-Dog Exercise,2,Light,Balance/Neuromotor,Core stability & back health.
+12,Calf Stretches,1.5,Light,Flexibility,Prevents cramps & improves mobility.
+13,Tai Chi (Sitting),1.5,Light,Balance/Neuromotor,Very light; ideal for seniors/rehab.
+14,Jogging (2.6-3.7 mph),3.3,Moderate,Aerobic/Cardiovascular,Improves endurance & heart health.
+15,Brisk Walking (3.5-4 mph),3.5,Moderate,Aerobic/Cardiovascular,Sustainable calorie burn.
+16,Bodyweight Squats,3.5,Moderate,Strength/Resistance,Builds leg strength & mobility.
+17,"Cycling (leisure, 10-12 mph)",6,Moderate,Aerobic/Cardiovascular,Low-impact cardio.
+18,Swimming (moderate),5.8,Moderate,Aerobic/Cardiovascular,"Full-body, joint-friendly."
+19,Pilates (Reformer/Mat),3.5,Moderate,Flexibility,Core strength & posture.
+20,Step Aerobics,5,Moderate,Aerobic/Cardiovascular,Improves coordination & stamina.
+21,Dancing (Zumba/Salsa),4.5,Moderate,Aerobic/Cardiovascular,Fun cardio for stress relief.
+22,Hiking (flat terrain),4.5,Moderate,Aerobic/Cardiovascular,Nature + cardio combo.
+23,Modified Push-Ups,3.5,Moderate,Strength/Resistance,Builds chest/arm strength.
+24,Jump Rope (slow pace),5,Moderate,Aerobic/Cardiovascular,Improves bone density & agility.
+25,Kayaking,4,Moderate,Aerobic/Cardiovascular,Strengthens arms & core.
+26,Stair Climbing (slow),4.5,Moderate,Aerobic/Cardiovascular,Glute & leg toning.
+27,Aerobic Dance (low impact),4.8,Moderate,Aerobic/Cardiovascular,Joint-friendly & fun.
+28,Bicycling (easy pace),4.3,Moderate,Aerobic/Cardiovascular,Improves leg endurance.
+29,Tai Chi (Yang Style),6,Moderate,Balance/Neuromotor,Enhances balance & mindfulness.
+30,Running (4-4.2 mph),6.5,High,Aerobic/Cardiovascular,High-intensity calorie burner; boosts stamina.
+31,Running (6 mph),9.8,High,Aerobic/Cardiovascular,Maximizes calorie burn.
+32,Running Uphill (4.5 mph),10.3,High,Aerobic/Cardiovascular,Builds leg strength & cardiovascular fitness.
+33,Aerobic Dance (high impact),8,High,Aerobic/Cardiovascular,High-energy; improves coordination.
+34,Rope Skipping,11,High,Aerobic/Cardiovascular,Enhances agility & bone density.
+35,Bicycling (10-11.9 mph),6.8,High,Aerobic/Cardiovascular,Builds leg muscles & cardio health.
+36,Bicycling (12-13.9 mph),8,High,Aerobic/Cardiovascular,Race-paced endurance.
+37,Bicycling (14-15.9 mph),10,High,Aerobic/Cardiovascular,Competitive cycling.
+38,Burpees,8,High,Strength/Resistance,Full-body fat burner & endurance booster.
+39,Jump Squats,8,High,Strength/Resistance,Plyometric leg power.
+40,HIIT (Tabata),9.5,High,Aerobic/Cardiovascular,"Short bursts, high fat burn."
+41,CrossFit (AMRAP),8,High,Strength/Resistance,Strength & conditioning.
+42,Rope Climbing,7,High,Strength/Resistance,Upper body & grip strength.
+43,Sprint Intervals,10,High,Aerobic/Cardiovascular,Boosts metabolism.
+44,Plyometric Lunges,7.5,High,Strength/Resistance,Leg power & balance.
+45,Swimming (vigorous),11,High,Aerobic/Cardiovascular,Elite full-body workout.
+46,Stair Sprints,10,High,Aerobic/Cardiovascular,"Glutes, legs, and cardio."
+47,Push-Ups (fast reps),6.9,High,Strength/Resistance,Builds chest & arm strength quickly.
