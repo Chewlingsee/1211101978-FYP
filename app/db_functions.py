@@ -2,10 +2,10 @@ import mysql.connector
 from mysql.connector import Error
 
 # Database connection details
-DB_HOST = 'localhost'
-DB_USER = 'root'
-DB_PASSWORD = 'Clsee2344.'
-DB_NAME = 'caloriewise'
+DB_HOST = 'host_name'
+DB_USER = 'user_name'
+DB_PASSWORD = ''
+DB_NAME = 'database_name'
 
 def connect_to_database():
     """Establish a MySQL database connection."""
